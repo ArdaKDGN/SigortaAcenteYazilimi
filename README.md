@@ -21,21 +21,21 @@ Bu proje, bir sigorta acentesinin poliçe işlemlerini daha kolay, daha hızlı 
 - **Platform:** Windows Forms (WinForms)  
 - **IDE:** Visual Studio  
 - **Bulut:** Google Drive API entegrasyonu  
-- **Kaynak Kod:** [GitHub'da Görüntüle](https://github.com/ArdaKDGN/SigortaAcenteYazilim)
+- **Kaynak Kod:** [GitHub'da Görüntüle](https://github.com/ArdaKDGN/OtoServisUygulamasi)
 
 ---
 
 ## 🤝 Katkı Sağla
 
 🎯 Yeni fikirler, öneriler veya katkılarınız için lütfen bir **issue** açın veya bir **pull request** gönderin.  
-💡 Hep birlikte daha iyi bir yazılım için çalışıyoruz!
+💡 Detaylar ve sorularınız için: [ardaakdogan@outlook.com.tr](mailto:ardaakdogan@outlook.com.tr)
 
 ---
 
 ## 📄 Lisans
 
 Bu proje açık kaynaklıdır ve **MIT Lisansı** ile lisanslanmıştır.  
-Detaylar için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
+Lisans almak için : [ardaakdogan@outlook.com.tr](mailto:ardaakdogan@outlook.com.tr)
 
 ---
 
