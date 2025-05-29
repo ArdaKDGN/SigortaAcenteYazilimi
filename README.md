@@ -21,7 +21,6 @@ Bu proje, bir sigorta acentesinin poliçe işlemlerini daha kolay, daha hızlı 
 - **Platform:** Windows Forms (WinForms)  
 - **IDE:** Visual Studio  
 - **Bulut:** Google Drive API entegrasyonu  
-- **Kaynak Kod:** [GitHub'da Görüntüle](https://github.com/ArdaKDGN/OtoServisUygulamasi)
 
 ---
 
