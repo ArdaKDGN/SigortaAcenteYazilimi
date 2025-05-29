@@ -1,4 +1,4 @@
-# 🚀 Sigorta Acente Yazılımı
+# 🛡️ Sigorta Acente Yazılımı
 
 Bu proje, bir sigorta acentesinin poliçe işlemlerini daha kolay, daha hızlı ve daha verimli bir şekilde yönetebilmesi için **yapay zeka desteğiyle geliştirilmiş özel bir masaüstü uygulamasıdır.**  
 
