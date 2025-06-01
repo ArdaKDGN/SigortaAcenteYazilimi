@@ -54,3 +54,4 @@ Evet, şuan için program tamamen ücretsizdir. Kullanmak için lisans kodu alma
 ### 🎯 Daha fazla bilgi için: [GitHub](https://github.com/ArdaKDGN/SigortaAcenteYazilimi)
 
 © 2025 AkdoWorks Sigorta Acente Yazılımı
+
